@@ -1,0 +1,19 @@
+1.         Area and circumference of a circle
+2.         Convert temperature in degrees Celsius to degrees Fahrenheit.
+		F=C*9/5 +32
+3.         Area of rectangle whose length and breadth are given
+4.         Area of a square
+5.         Volume of a sphere V=4/3pr3 
+6.         Calculate the square, cube and square root of any given number.
+7.         Simple interest. Inputs are principal amount, period in year and rate of interest. I=prt
+8.         Convert kilograms to grams. Input number in Kg.
+9.         Convert the length in feet to centimetre.
+10.       Find quotient and remainder of a two numbers.
+11.       Add two numbers
+12.       Area of a triangle A=0.5*l*h
+13.       Average of three numbers
+14.       Volume of a cylinder V=3.14*R^2*H
+15.       Volume of a Cone v=1/3.14*R^2*H
+16.       Rupees to dollars R* 0.015        
+17.       Feet to inches and centimetre. I=f*0.8333, C=F*30.48
+18.       Calculate area of triangle s=sqrt(s(s-a)*(s-b)*(s-c)) where s=(a+b+c)/2
